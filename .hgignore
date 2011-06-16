@@ -4,7 +4,7 @@ bin
 parts
 .installed.cfg
 *.egg-info
-*.py[y|o]
+*.py[y|o|c]
 *~
 develop-eggs
 dist
